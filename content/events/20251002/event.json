@@ -1,0 +1,17 @@
+{
+    "id": "20251002",
+    "title": "Fajne prompty #1",
+    "date": "2. 10. 2025",
+    "time": "17:00 - 22:00",
+    "location": "Cafe Club Dock, Ostrava",
+    "attendees": 100,
+    "price": "349 Kč",
+    "status": "past",
+    "lumaLink": "#",
+    "description": "První setkání komunity Fajne prompty. Úvod do světa AI, networking a pivo.",
+    "media": {
+        "cover": "media/cover.svg",
+        "gallery": [],
+        "recap": "media/recap.mp4"
+    }
+}

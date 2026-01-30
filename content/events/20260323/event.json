@@ -1,0 +1,15 @@
+{
+  "id": "20260323",
+  "title": "Fajne prompty #2",
+  "date": "23. 3. 2026",
+  "time": "17:00 - 22:00",
+  "location": "Cafe Club Dock, Ostrava",
+  "attendees": 100,
+  "price": "349 Kč",
+  "status": "open",
+  "lumaLink": "https://luma.com/ouuw2s0x",
+  "description": "Druhé setkání komunity Fajne prompty. Těšte se na networking, lightning talks a spoustu inspirace.",
+  "media": {
+    "cover": "media/cover.svg"
+  }
+}

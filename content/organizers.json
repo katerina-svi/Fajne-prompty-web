@@ -1,0 +1,25 @@
+{
+  "organizers": [
+    {
+      "id": 1,
+      "name": "Kateřina Švidrnochová",
+      "bio": "Legenda praví, že den Kači má 32 hodin a ještě noc. Zvládá školit, tvořit, metodikovat, organizovat.",
+      "linkedin": "https://www.linkedin.com/in/svidrnochova/",
+      "image": "/images/team/Svidrnochova_01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Martin Chmela",
+      "bio": "Patriot, který pomáhá firmám i jednotlivcům automatizovat procesy a využívat AI na maximum.",
+      "linkedin": "https://www.linkedin.com/in/martinchmela/",
+      "image": "/images/team/martin.svg"
+    },
+    {
+      "id": 3,
+      "name": "Filip Goszler",
+      "bio": "Lektor tělem i duší, vykopávač projektů a velký technologický i životní optimista.",
+      "linkedin": "https://www.linkedin.com/in/filipgoszler/",
+      "image": "/images/team/filip.svg"
+    }
+  ]
+}

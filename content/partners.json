@@ -1,0 +1,18 @@
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "GUG.cz",
+      "logo": "/images/partners/gug-logo.svg",
+      "url": "https://gug.cz",
+      "description": "Google User Group Czech Republic"
+    },
+    {
+      "id": 2,
+      "name": "Černá Kostka",
+      "logo": "/images/partners/cerna-kostka-logo.svg",
+      "url": "https://cernakostka.cz",
+      "description": "Kreativní hub v Ostravě"
+    }
+  ]
+}

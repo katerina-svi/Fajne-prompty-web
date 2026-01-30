@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Fajne Prompty | AI komunita, která věří v offline",
+    "description": "Neformální komunita AI nadšenců z Moravskoslezského kraje. Scházíme se na akcích, sdílíme zkušenosti s AI a budujeme vztahy.",
+    "keywords": ["AI", "umělá inteligence", "komunita", "Ostrava", "MSK", "Moravskoslezský kraj", "prompty", "ChatGPT", "Claude"]
+  },
+
+  "nav": {
+    "logo": "FAJNE PROMPTY",
+    "links": [
+      { "label": "Akce", "href": "#akce" },
+      { "label": "Komunita", "href": "#komunita" },
+      { "label": "AI Nadšenci", "href": "#nadsenci" },
+      { "label": "Partneři", "href": "#partneri" },
+      { "label": "Kontakt", "href": "#kontakt" }
+    ]
+  },
+
+  "hero": {
+    "claim": {
+      "line1": "AI komunita,",
+      "line2": "která věří v offline"
+    },
+    "intro": [
+      "Jsme neformální komunita lidí z Moravskoslezského kraje, kteří neradi zůstávají jen u obrazovek. Scházíme se na akcích, sdílíme zkušenosti s AI a dokazujeme, že nejlepší konverzace jsou tváří v tvář.",
+      "Žádné nutné formality, jen lidé, kteří chtějí spolu růst a bavit se u toho. 🚀"
+    ],
+    "cta": [
+      { "label": "Zjistit víc", "href": "#komunita", "style": "outline" },
+      { "label": "Nejbližší akce", "href": "#akce", "style": "filled" },
+      { "label": "Přihlásit k odběru", "href": "https://mailchimp.com", "style": "secondary", "external": true }
+    ],
+    "stats": [
+      { "value": "100+", "label": "Účastníků na první akci", "color": "blue" },
+      { "value": "40+", "label": "Lidí na měsíčních setkáních", "color": "purple" },
+      { "value": "120+", "label": "Členů v komunitě", "color": "pink" }
+    ],
+    "partnersLabel": "Partneři"
+  },
+
+  "events": {
+    "heading": "Nadcházející akce",
+    "subheading": "Žádné kravaty, žádné nudné prezentace – jen banda lidí, co se zajímají o AI 🎉",
+    "viewAllButton": "Zobrazit všechny akce →",
+    "statusLabels": {
+      "open": "Otevřeno",
+      "sold-out": "Vyprodáno",
+      "past": "Proběhlo"
+    },
+    "buttons": {
+      "buyTicket": "Koupit lístek",
+      "learnMore": "Zjistit víc",
+      "showRecap": "Zobrazit recap",
+      "soldOut": "Vyprodáno"
+    },
+    "infoLabels": {
+      "date": "Datum",
+      "time": "Čas",
+      "location": "Místo",
+      "attendees": "účastníků",
+      "price": "Cena"
+    }
+  },
+
+  "community": {
+    "heading": "Kdo jsme a proč se potkáváme?",
+    "paragraphs": [
+      "Fajne prompty jsou komunita AI nadšenců, která vznikla v Moravskoslezském kraji – ale jste vítaní všichni, ať už jste z Prahy, Brna, nebo odkudkoli jinud. 🗺️",
+      "Naším cílem není jen scrollovat LinkedIn a sledovat AI novinky online. Chceme se potkávat naživo, budovat vztahy, vzájemně si pomáhat a inspirovat se reálnými příběhy z praxe.",
+      "Bo AI sice umí hodně, ale kamaráda vám zatím nenajde. 😅",
+      "Neřešíme, jestli používáte Claude, ChatGPT, nebo stále Googlete \"jak na AI\" – u nás se chytí každý. Od ajťáků přes marketéry až po ty, co AI zatím využívají jen na recepty z taveného sýra. 🧀",
+      "Přijďte na akci, poznejte lidi, co to s AI myslí vážně (ale ne moc), a zjistěte, že nejlepší prompty vznikají ve skupině přátel."
+    ],
+    "organizersHeading": "Organizátoři"
+  },
+
+  "partnership": {
+    "heading": "Pomozte nám budovat komunitu",
+    "paragraphs": [
+      "Naše akce nejsou financované z dotací ani grantů. Vše, co děláme, stojí na zapálení organizátorů a podpoře od partnerů, kteří věří ve stejnou vizi jako my.",
+      "Pokud chcete být součástí rostoucí AI komunity v MSK a podpořit místo, kde se lidé skutečně potkávají, vzájemně pomáhají a posouvají dopředu – ozvěte se nám.",
+      "Nabízíme partnerství šité na míru vašim cílům – od loga na akcích přes přímý kontakt s našimi členy až po prostor pro vaše AI projekty."
+    ],
+    "benefits": [
+      "Dosah k 120+ AI nadšencům z MSK regionu",
+      "Logo a zmínka na akcích i sociálních sítích",
+      "Přímý kontakt s tech komunitou",
+      "Možnost prezentace vašich AI řešení"
+    ],
+    "cta": [
+      { "label": "Stát se partnerem", "href": "mailto:filip@gug.cz", "style": "outline" },
+      { "label": "Zjistit víc o partnerství", "href": "#partneri", "style": "secondary" }
+    ]
+  },
+
+  "footer": {
+    "description": "Komunita AI nadšenců z Moravskoslezského kraje",
+    "sections": {
+      "navigation": {
+        "heading": "Navigace",
+        "links": [
+          { "label": "Akce", "href": "#akce" },
+          { "label": "Komunita", "href": "#komunita" },
+          { "label": "AI Nadšenci", "href": "#nadsenci" },
+          { "label": "Partneři", "href": "#partneri" }
+        ]
+      },
+      "contact": {
+        "heading": "Kontakt",
+        "email": "katerina@svidrnochova.cz",
+        "phone": "+420 725 121 217"
+      },
+      "social": {
+        "heading": "Sledujte nás",
+        "links": [
+          { "label": "LinkedIn", "href": "#", "icon": "linkedin" },
+          { "label": "Instagram", "href": "#", "icon": "instagram" }
+        ]
+      }
+    },
+    "copyright": "© 2026 Fajne Prompty. Organizováno s ❤️ v Ostravě.",
+    "organizer": {
+      "label": "Pořadatel:",
+      "name": "GUG.cz",
+      "href": "https://gug.cz"
+    }
+  },
+
+  "accessibility": {
+    "skipLink": "Přejít na hlavní obsah",
+    "menuToggle": "Otevřít navigační menu",
+    "closeMenu": "Zavřít menu"
+  }
+}

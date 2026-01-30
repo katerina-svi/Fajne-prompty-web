@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="cs" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Fajne Prompty - AI komunita z Moravskoslezského kraje" />
+    <title>Fajne Prompty</title>
+    <link rel="stylesheet" href="/src/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="font-sans text-gray-900 bg-whiteantialiased">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:p-4 focus:bg-white focus:text-blue-700">
+      Přejít na hlavní obsah
+    </a>
+
+    <!-- Navigation -->
+    <header id="navbar" class="fixed top-0 w-full z-40 bg-white/80 backdrop-blur-md border-b border-gray-200 transition-all duration-300">
+      <div class="container mx-auto px-4 h-16 flex items-center justify-between">
+        <a href="#" class="text-xl font-bold bg-gradient-to-r from-blue-700 via-purple-700 to-pink-700 bg-clip-text text-transparent">
+          FAJNE PROMPTY
+        </a>
+        
+        <!-- Desktop Menu -->
+        <nav class="hidden md:flex gap-8">
+          <!-- Links injected by JS -->
+        </nav>
+
+        <!-- Mobile Menu Button -->
+        <button id="mobile-menu-btn" class="md:hidden p-2 text-gray-700 hover:text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-700 rounded-lg">
+          <span class="sr-only">Otevřít menu</span>
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Mobile Menu -->
+      <div id="mobile-menu" class="hidden md:hidden absolute top-16 left-0 w-full bg-white border-b border-gray-200 shadow-lg">
+        <nav class="flex flex-col p-4 gap-4">
+          <!-- Links injected by JS -->
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="pt-16">
+      <!-- Hero Section -->
+      <section id="hero" class="relative bg-blue-50 py-20 lg:py-32 overflow-hidden">
+        <div class="container mx-auto px-4 text-center z-10 relative">
+           <!-- Content injected by JS -->
+        </div>
+      </section>
+
+      <!-- Events Section -->
+      <section id="akce" class="py-20">
+        <div class="container mx-auto px-4">
+           <!-- Content injected by JS -->
+           <div id="events-grid" class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12"></div>
+        </div>
+      </section>
+
+      <!-- Community Section -->
+      <section id="komunita" class="py-20 bg-blue-50">
+        <div class="container mx-auto px-4">
+           <!-- Content injected by JS -->
+           <div id="organizers-grid" class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12"></div>
+        </div>
+      </section>
+      
+      <!-- AI Enthusiasts / Gallery Section (Placeholder based on Nav) -->
+      <section id="nadsenci" class="py-20 hidden">
+        <!-- Optional extra section if needed based on nav links -->
+      </section>
+
+      <!-- Partnership Section -->
+      <section id="partneri" class="py-20">
+        <div class="container mx-auto px-4">
+           <!-- Content injected by JS -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer id="footer" class="bg-gray-50 border-t border-gray-200 py-12">
+      <div class="container mx-auto px-4">
+         <!-- Content injected by JS -->
+      </div>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
